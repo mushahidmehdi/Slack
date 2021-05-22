@@ -1,8 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ### Live Demo
 Go to this https://slackcomponents.web.app/ link and open an account just by google popup with only two clicks and feel free to share any message.
 
+![slack](https://user-images.githubusercontent.com/66418035/119219195-f0cdcf00-baec-11eb-9834-6524175360dc.jpg)
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
