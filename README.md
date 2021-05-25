@@ -1,6 +1,6 @@
 
 ### Live Demo
-Go to this https://slackcomponents.web.app/ link and open an account just by google popup with only two clicks and feel free to share any message.
+Go to this [link](https://slackcompo.web.app/) and open an account just by google popup with only two clicks and feel free to share any message.
 
 ![slack](https://user-images.githubusercontent.com/66418035/119219195-f0cdcf00-baec-11eb-9834-6524175360dc.jpg)
 
