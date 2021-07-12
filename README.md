@@ -1,4 +1,6 @@
 
+![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/Slack-UI-with-React-Redux?style=plastic)
+
 ### Live Demo
 ###### We will build slack UI components in ReactJS 
 
