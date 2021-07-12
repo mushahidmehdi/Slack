@@ -1,7 +1,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/Slack-UI-with-React-Redux?style=plastic)
 
-### Live Demo
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fslackcompo.web.app%2F)
+
 ###### We will build slack UI components in ReactJS 
 
 Go to this [link](https://slackcompo.web.app/) and open an account just by google popup with only two clicks and feel free to share any message.
